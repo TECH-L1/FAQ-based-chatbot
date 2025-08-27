@@ -1,7 +1,7 @@
-# HCP Technical Support FAQ Chatbot
+# Technical Support FAQ Chatbot
 
 ## 🎯 Overview
-This project is an **FAQ-based chatbot** designed to support HCP (HashiCorp Cloud Platform) technical inquiries. It leverages **LangChain** and **local LLMs via Ollama** to retrieve answers from FAQ documents and delivers responses through an intuitive **Streamlit web interface**.
+This project is an **FAQ-based chatbot** designed to support technical inquiries. It leverages **LangChain** and **local LLMs via Ollama** to retrieve answers from FAQ documents and delivers responses through an intuitive **Streamlit web interface**.
 
 ### ✨ Key Features
 1. **🏠 Local LLM Support** - Run completely offline using Ollama with DeepSeek-R1-Distill-Qwen-14B
